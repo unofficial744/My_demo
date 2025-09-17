@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(85, 240, 246);
+}
+#name{
+  background-color: rgb(255, 188, 141);
+}
+#password{
+  background: rgb(112, 16, 207);
+}
+#age{
+  background-color: rgb(205, 48, 166);
+}
+#number
+{
+  background: red;
+  background-color: rgb(77, 71, 62);
+}
